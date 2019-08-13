@@ -1,3 +1,4 @@
-urlspatterns = [
 
+urlspatterns = [
+path
 ]
